@@ -18,7 +18,7 @@
     --gradient: linear-gradient(135deg, var(--primary-blue) 0%, var(--accent-orange) 100%);
     --font-display: 'Playfair Display', serif;
     --font-body: 'Inter', sans-serif;
-    --nav-height: 150px; /* height of fixed navbar used for anchor offset */
+    --nav-height: 80px; /* height of fixed navbar used for anchor offset */
 }
 
 * {
